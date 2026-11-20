@@ -4,7 +4,7 @@ An end-to-end Data Analytics project using **Python, SQL, and Power BI** to anal
 
 ## 📊 Power BI Dashboard
 
-![Customer Shopping Behavior Dashboard](customer_behavior_dashboard.png)
+![Customer Shopping Behavior Dashboard](https://github.com/shaz-code/Customer_Shopping_Behavoir_Analysis/blob/76a1e33f48d5cf1d8a636c5a0feee99afa7c5dbe/image.png)
 
 The interactive dashboard provides insights into customer demographics, revenue distribution, product performance, subscription status, and purchasing preferences.
 
